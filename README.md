@@ -64,7 +64,7 @@ Have a look at my .... document to have a close look at the data cleaned and how
 # CONCLUSION ABOUT MY ANALYSIS
 
 Based on my analysis of the data, the total vote count on movies is # 9707496 and tv shows # 7011684. A lot of people preferred to watch movies than they do tv shows. 
-The average vote on movies is # 804,933333333333 and tv shows 1744,2.
+The average vote on movies is # 804,933333333333 and tv shows #1744,2.
 
 Based on the results of my analysis,  many movies and tv shows are released in English. It's pretty evident because a lot of platforms release movies and tv shows in English. 
 However, some countries where English is not their native language are releasing their movies in thier own native language, but there are subtitles for people who do not understand those language. but would like to watch. 
