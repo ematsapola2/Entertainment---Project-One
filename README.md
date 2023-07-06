@@ -8,6 +8,8 @@ This dataset is from Kaggle.
 
 The dataset is used to show the type of movies/series people preferred to watch from. This dataset contains movies and tv shows, therefore, we are going to have a look at the type of media people preferred to watch based on the data.
 
+# NOTE 
+I decided not to add the 'unknown' field under 'Original_title' which fall under the the media type 'tv show'. because there are no records of the name of the tv shows.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # ABOUT THE DATA
@@ -73,7 +75,7 @@ We have South African platforms like Showmax, which most of its content is in di
 
 The dataset contains movies released between 2019 and 2023. Based on my analysis. However, a lot of the movies in the dataset were released in 2023. Most of the movies were released in March of 2023.
 
-
+The conclusion does not include the tv show media type because the records on the original title field are empty. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -83,8 +85,7 @@ Even though the results show me that most movies/tv shows are released in Englis
 
 Based on the dataset, more data could have been included to find better results. The dataset was limited, also regarding the genres of movies that were chosed for this dataset. The dataset doesn't include any genre to indentify what genre was chosed.
 
-Based on the analysis, I have noticed that the media type 'tv show' has empty fields under the column 'original_title'. There are no records of the title names. The data could have been incomplete, or the there were errors when uploading the data. 
-
+Based on the analysis, I have noticed that the media type 'tv show' has empty fields under the column 'original_title'. There are no records of the title names. The data could have been incomplete, or the there were errors when uploading the data. Therefore, I decided not to include this media type on my analysis, and only did an analysis on movies because of the empty fields.
 
 
 
