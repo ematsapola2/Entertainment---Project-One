@@ -108,17 +108,15 @@ From my analysis, the general sentiment or opinion of viewers towards different 
 
 # Abnormalities/Limitations
 
+The variable 'original_title' had empty fields of the tv show media_type, hence it was not easy to analsye the data about this media type. It is important to check for completeness of the data, ensuring that the dataset includes all relevant information for analysis.
 
-LAnguagea:
-Even it is possible for Japan, Korea, and Spain to have the same level of count (804) for the "language_count" attribute in the dataset. However, there might have been some problems during the data collection process such as data entry errors or inconsistencies in the dataset.
-
-
-Release date:
-
-You can evaluate if there are any instances of extremely early or late release dates that deviate significantly from the overall distribution. Additionally, it is important to check for completeness of the data, ensuring that the dataset includes all relevant releases within the specified time frame.
-
-I have noticed that there are late release dates that deviate significantly from the overall distribution. The dataset focused more on the most released dates. Aditionally, the dataset does not provide the specific movie genre to find a deeper understanding of how trhe data was collected for analysis. Most of the movies are released in 2023, with only just one movie released in 2022 and 2019. What steps were taken to when collecting the data. The data collection might have focused on one area there might have not been an even distribution of the collection of data. The data might not be complete, also, the data might not include all relevant releases within the specified time frame.
+Even though it is possible for Japan, Korea, and Spain to have the same level of count (804) for the "language_count" attribute in the dataset. However, there might have been some problems during the data collection process such as data entry errors or inconsistencies in the dataset.
 
 Even though the dataset includes several movies with release dates in 2023, indicating a focus on recent and upcoming releases. This dataset might also suggest that the dataset might be more relevant for analyzing recent trends and developments in the movie industry.
 This dataset does not include variables such as genres, which makes it difficult to reveal more patterns and trends for specific movie titles and released dates.
+
+
+From my analysis, genre and theme information is not explicitly provided in the dataset, it can be considered for further analysis. Combining the available data with genre information would allow for deeper insights into audience preferences and trends within specific genres.
+To gain a more comprehensive understanding of the entertainment industry, it would be beneficial to consider additional variables such as movie genres, ratings, box office performance, production budgets, and contextual information. Comparative analysis, market research, and external data sources can also provide valuable insights for a more robust analysis.
+It is important to acknowledge the limitations of the dataset, such as missing information, potential data quality issues, and a limited scope or sample size. These limitations may impact the generalizability of the analysis and should be considered when drawing conclusions.
 
