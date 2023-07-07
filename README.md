@@ -75,50 +75,38 @@ Have a look at my .... document to have a close look at the data cleaned and how
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-# CONCLUSION ABOUT MY ANALYSIS
+# MY ANALYSIS OF THE DATA AND CONCLUSION
 
-Based on my analysis of the data, the total vote count on movies is # 9707496 and tv shows # 7011684. A lot of people preferred to watch movies than they do tv shows. 
-The average vote on movies is # 804,933333333333 and tv shows #1744,2.
+Original Language:
 
-Based on the results of my analysis,  many movies and tv shows are released in English. It's pretty evident because a lot of platforms release movies and tv shows in English. 
-However, some countries where English is not their native language are releasing their movies in thier own native language, but there are subtitles for people who do not understand those language. but would like to watch. 
-We have South African platforms like Showmax, which most of its content is in different South African languages, but there's always an option for subtitles for people who don't understand the language.
-
-
-The dataset contains movies released between 2019 and 2023. Based on my analysis. However, a lot of the movies in the dataset were released in 2023. Most of the movies were released in March of 2023.
-
-The conclusion does not include the tv show media type because the records on the original title field are empty. 
-
-
-
-
-Language:
 Based on my analysis, the dataset includes movies or content primarily in five different languages: English, Japanese, Chinese, Spanish, and Korean. English is the most prevalent language in the dataset, with a count of 12,060. This suggests that a significant portion of the content in the dataset is in the English language.
 The analysis also shows that Japanese, Chinese, Spanish, and Korean languages each have a count of 804. This suggests that there is a presence of content in these languages as well, although to a lesser extent compared to English. The presence of multiple languages in the dataset reflects the diversity of content offered. This can be useful for catering to a wider audience and appealing to individuals who prefer content in different languages.
 
-Release dates(year):
- The data includes a range of release dates, spanning from May 25, 2019, to April 6, 2023. From my analysis, I have noticed that there are months that have higher concentration of releases. This dataset can be used for analyzing recent trends, consumer preferences or the market dynamics in the entertainment industry.
- The dataset includes several movies with release dates in 2023, indicating a focus on recent and upcoming releases.
 
+Release dates(year):
+The data includes a range of release dates, spanning from May 25, 2019, to April 6, 2023. From my analysis, From my analysis, there are months that have higher concentration of releases. This dataset can be used for analyzing recent trends, consumer preferences or the market dynamics in the entertainment industry. This dataset indicates that 2023 has higher concentration of releases.
 This analysis provides information about the popularity or recognition of certain movie titles within the dataset. The presence of movie titles like "John Wick: Chapter 4" and "Creed III" suggests that people prefer sequels or franchise movies.
 
 
 Release Month:
 
-From my analysis when looking at the release in months,this dataset provides insights into the frequency and concentration of movie releases across different months. Foer example, the March is a month with a higher concentration of releases. It could indicate seasonal patterns or strategic release planning by movie studios. 
+From my analysis when looking at the release in months,this dataset provides insights into the frequency and concentration of movie releases across different months. For example, March is a month with a higher concentration of releases. It indicates seasonal patterns or strategic release planning by movie studios. 
 From the dataset, my analysis suggest that movie studios might often consider factors like competition, market demand, and audience preferences when deciding on release dates.
 
+
+Vote Count:
+
+From my analysis, the vote counts for each media type provides insights into the level of audience engagement and popularity for movies and TV shows. Higher vote counts for movies indicate a higher level of engagement and interest from viewers.
+
+
+Average vote count:
+
+From my analysis, the general sentiment or opinion of viewers towards different movies can be assessed. Higher vote averages typically indicate more positive ratings and a higher level of audience satisfaction.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # Abnormalities/Limitations
-
-Even though the results show me that most movies/tv shows are released in English, I have noticed some errros on the data. The countries Spain, China and Korea have the same number of watched movies, which seems odd since they are different countires. This finding might be unexpected or could indicate potential issues with data collection or recording.
-
-Based on the dataset, more data could have been included to find better results. The dataset was limited, also regarding the genres of movies that were chosed for this dataset. The dataset doesn't include any genre to indentify what genre was chosed.
-
-Based on the analysis, I have noticed that the media type 'tv show' has empty fields under the column 'original_title'. There are no records of the title names. The data could have been incomplete, or the there were errors when uploading the data. Therefore, I decided not to include this media type on my analysis, and only did an analysis on movies because of the empty fields.
 
 
 LAnguagea:
