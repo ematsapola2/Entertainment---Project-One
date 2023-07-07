@@ -9,6 +9,7 @@ This dataset is from Kaggle.
 The dataset is used to show the type of movies/series people preferred to watch from. This dataset contains movies and tv shows, therefore, we are going to have a look at the type of media people preferred to watch based on the data.
 
 # NOTE 
+
 I decided not to add the 'unknown' field under 'Original_title' which fall under the the media type 'tv show'. because there are no records of the name of the tv shows.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
