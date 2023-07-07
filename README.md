@@ -17,20 +17,24 @@ I decided not to add the 'unknown' field under 'Original_title' which fall under
 
 The dataset consists of the following:
 •	Id
+
 This column consists of unique Ids which are unique to each movie/ tv show. The Id is a unique Id created for each movie/tv show.
 
 
-•	Original_title
+•	# Original_title
+
 This column consists of the movie/ tv show names which people preferred to watch or streamed the most. 
 
 
 
-•	Original_language
+•	# Original_language
+
 This includes the language the movies/tv shows were originally produced. The table consists of different languages, in which movies were produced in.
 
 
-•	Release_date
-this dataset refers to the date when a movie or TV show was released to the public. Here we are looking at the most recent released movies/tv shows between 2019 – 2013.
+•	# Release_date
+
+This dataset refers to the date when a movie or TV show was released to the public. Here we are looking at the most recent released movies/tv shows between 2019 – 2013.
 
 
 •	Popularity
