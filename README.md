@@ -89,6 +89,20 @@ The dataset contains movies released between 2019 and 2023. Based on my analysis
 
 The conclusion does not include the tv show media type because the records on the original title field are empty. 
 
+
+
+
+Language:
+Based on my analysis, the dataset includes movies or content primarily in five different languages: English, Japanese, Chinese, Spanish, and Korean. English is the most prevalent language in the dataset, with a count of 12,060. This suggests that a significant portion of the content in the dataset is in the English language.
+The analysis also shows that Japanese, Chinese, Spanish, and Korean languages each have a count of 804. This suggests that there is a presence of content in these languages as well, although to a lesser extent compared to English. The presence of multiple languages in the dataset reflects the diversity of content offered. This can be useful for catering to a wider audience and appealing to individuals who prefer content in different languages.
+
+Release date:
+ The data includes a range of release dates, spanning from May 25, 2019, to April 6, 2023. From my analysis, I have noticed that there are months that have higher concentration of releases. This dataset can be used for analyzing recent trends, consumer preferences or the market dynamics in the entertainment industry.
+ The dataset includes several movies with release dates in 2023, indicating a focus on recent and upcoming releases.
+
+ This analysis provides information about the popularity or recognition of certain movie titles within the dataset.
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # Abnormalities/Limitations
@@ -100,4 +114,15 @@ Based on the dataset, more data could have been included to find better results.
 Based on the analysis, I have noticed that the media type 'tv show' has empty fields under the column 'original_title'. There are no records of the title names. The data could have been incomplete, or the there were errors when uploading the data. Therefore, I decided not to include this media type on my analysis, and only did an analysis on movies because of the empty fields.
 
 
+LAnguagea:
+Even it is possible for Japan, Korea, and Spain to have the same level of count (804) for the "language_count" attribute in the dataset. However, there might have been some problems during the data collection process such as data entry errors or inconsistencies in the dataset.
+
+
+Release date:
+
+You can evaluate if there are any instances of extremely early or late release dates that deviate significantly from the overall distribution. Additionally, it is important to check for completeness of the data, ensuring that the dataset includes all relevant releases within the specified time frame.
+
+I have noticed that there are late release dates that deviate significantly from the overall distribution. The dataset focused more on the most released dates. Aditionally, the dataset does not provide the specific movie genre to find a deeper understanding of how trhe data was collected for analysis. Most of the movies are released in 2023, with only just one movie released in 2022 and 2019. What steps were taken to when collecting the data. The data collection might have focused on one area there might have not been an even distribution of the collection of data. The data might not be complete, also, the data might not include all relevant releases within the specified time frame.
+
+Even though the dataset includes several movies with release dates in 2023, indicating a focus on recent and upcoming releases. This dataset might also suggest that the dataset might be more relevant for analyzing recent trends and developments in the movie industry.
 
