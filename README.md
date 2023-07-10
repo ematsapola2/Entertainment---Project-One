@@ -11,7 +11,7 @@ Based on the data, we will examine the type of media people prefer to watch base
 
 # Note
 
-The dataset analysed does not include the 'unknown' field under 'Original_title', which falls under the 'tv show' media type, due to the absence of TV show names, thus no analysis could be conducted on missing or incomplete data.
+The dataset analysed does not include the 'Unknown' field under 'original_title', which falls under the 'tv show' media type, due to the absence of TV show names, thus no analysis could be conducted on missing or incomplete data.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
