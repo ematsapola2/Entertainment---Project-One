@@ -1,16 +1,17 @@
-## PROJECT ANALYSIS AND CONCLUSION
+## PROJECT ANALYSIS
 
 # Entertainment(movie/tv show)
 
-This dataset explores the fascinating world of entertainment (movies and tv shows). It shows the movies/datasets which were watched/streamed the most by the public. 
-It presents the preference and behaviour of audiences towards different type of movies/tv shows.
-This dataset is from Kaggle. 
+The dataset explores the fascinating world of entertainment (movies and TV shows). It displays the movies/datasets that have been viewed/streamed the most. 
+The report presents the preferences and behaviors of audiences towards different types of films and television shows.
+Based on the data, we will examine the type of media people prefer to watch based on movies and television shows
 
-The dataset is used to show the type of movies/series people preferred to watch from. This dataset contains movies and tv shows, therefore, we are going to have a look at the type of media people preferred to watch based on the data.
+# This dataset is from Kaggle. 
+
 
 # NOTE 
 
-I decided not to add the 'unknown' field under 'Original_title' which fall under the the media type 'tv show'. because there are no records of the name of the tv shows.
+The dataset analysed does not include the 'unknown' field under 'Original_title', which falls under the 'tv show' media type, due to the absence of TV show names, thus no analysis could be conducted on missing or incomplete data.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # ABOUT THE DATA
