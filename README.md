@@ -4,7 +4,7 @@
 
 The dataset explores the fascinating world of entertainment (movies and TV shows). It displays the movies/datasets that have been viewed/streamed the most. 
 The report presents the preferences and behaviors of audiences towards different types of films and television shows.
-Based on the data, we will examine the type of media people prefer to watch based on movies and television shows.
+Based on the data, we will examine the type of media people prefer to watch based on movies and TV shows.
 
 # This dataset is from Kaggle. 
 
@@ -22,19 +22,19 @@ The dataset consists of the following:
 
 •	Id:
 
-A unique Id is assigned to each movie or television show in this column. 
+A unique Id is assigned to each movie or TV shows in this column. 
 
 
 
 • Original_title:
 
-Movie/TV show names are listed in this column.
+Movie/ TV show names are listed in this column.
 
 
 
 • Original_language:
 
- Languages in which movies were produced.
+ Languages in which movies/ TV shows were produced.
 
 
 
@@ -88,15 +88,14 @@ The analysis also shows that Japanese, Chinese, Spanish, and Korean languages ea
 
 
 The data includes a range of release dates, spanning from May 25, 2019, to April 6, 2023. From my analysis, there are months that have higher concentration of releases. This dataset can be used for analyzing recent trends, consumer preferences or the market dynamics in the entertainment industry. This dataset indicates that 2023 has higher concentration of releases.
-This analysis provides information about the popularity or recognition of certain movie titles within the dataset. The presence of movie titles like "John Wick: Chapter 4" and "On a Wing and a Prayer".
+This analysis provides information about the popularity or recognition of certain movie titles within the dataset. Movies like "John Wick: Chapter 4" and "On a Wing and a Prayer".
 
 
 
 From my analysis, when looking at the release in months,this dataset provides insights into the frequency and concentration of movie releases across different months. For example, March is a month with a higher concentration of releases. It indicates seasonal patterns or strategic release planning by movie studios. 
 My analysis suggest that movie studios might often consider factors like competition, market demand, and audience preferences when deciding on release dates.
 
-
-From my analysis, the general sentiment or opinion of viewers towards different movies can be assessed. Higher vote averages typically indicate more positive ratings and a higher level of audience satisfaction.
+Lastly, the general sentiment or opinion of viewers towards different movies can be assessed. Higher vote averages typically indicate more positive ratings and a higher level of audience satisfaction.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -107,11 +106,11 @@ Due to the empty fields in the variable 'original_title', it was difficult to an
 
 Despite the fact that Japan, Korea, and Spain may have the same language_count attribute (804), inconsistencies or errors in the dataset may have occurred during the data collection process.
 
-Even though the dataset includes several movies with release dates in 2023, indicating a focus on recent and upcoming releases. This dataset might also suggest that the dataset might be more relevant for analyzing recent trends and developments in the movie industry.
-This dataset does not include variables such as genres, which makes it difficult to reveal more patterns and trends for specific movie titles and released dates.
+Even though the dataset includes several movies with release dates in 2023, indicating a focus on recent and upcoming releases, and also suggests that the dataset might be more relevant for analyzing recent trends and developments in the movie industry,
+this dataset does not include variables such as genres, which makes it difficult to reveal more patterns and trends for specific movie titles and released dates.
 
 
 From my analysis, genre and theme information is not explicitly provided in the dataset, it can be considered for further analysis. Combining the available data with genre information would allow for deeper insights into audience preferences and trends within specific genres.
 To gain a more comprehensive understanding of the entertainment industry, it would be beneficial to consider additional variables such as movie genres, ratings, box office performance, production budgets, and contextual information. Comparative analysis, market research, and external data sources can also provide valuable insights for a more robust analysis.
-It is important to acknowledge the limitations of the dataset, such as missing information, potential data quality issues, and a limited scope or sample size. These limitations may impact the generalizability of the analysis and should be considered when drawing conclusions.
+It is important to acknowledge the limitations of the dataset, such as missing information, potential data quality issues, and a limited scope or sample size. These limitations may have impacted the generalizability of the analysis and should be considered when drawing conclusions.
 
