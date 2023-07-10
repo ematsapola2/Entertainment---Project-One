@@ -13,7 +13,11 @@ Based on the data, we will examine the type of media people prefer to watch base
 
 The dataset analysed does not include the 'Unknown' field under 'original_title', which falls under the 'tv show' media type, due to the absence of TV show names, thus no analysis could be conducted on missing or incomplete data.
 
-----------------------------------------------------------------------------------------------------------------------------------------
+
+# Tableau Visualization
+Link : https://public.tableau.com/app/profile/evelyn.matsapola/viz/Entertainmentmovietvshow/Dashboard1?publish=yes
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 # ABOUT THE DATA
 
