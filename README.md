@@ -4,14 +4,15 @@
 
 The dataset explores the fascinating world of entertainment (movies and TV shows). It displays the movies/datasets that have been viewed/streamed the most. 
 The report presents the preferences and behaviors of audiences towards different types of films and television shows.
-Based on the data, we will examine the type of media people prefer to watch based on movies and television shows
+Based on the data, we will examine the type of media people prefer to watch based on movies and television shows.
 
 # This dataset is from Kaggle. 
 
 
-# NOTE 
+# Note
 
 The dataset analysed does not include the 'unknown' field under 'Original_title', which falls under the 'tv show' media type, due to the absence of TV show names, thus no analysis could be conducted on missing or incomplete data.
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # ABOUT THE DATA
