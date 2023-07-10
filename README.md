@@ -83,22 +83,19 @@ Take a look at my GitHub query document to see how I cleaned the data.
 # MY ANALYSIS OF THE DATA AND CONCLUSION
 
 
-Based on my analysis, the dataset includes movies or content primarily in five different languages: English, Japanese, Chinese, Spanish, and Korean. English is the most prevalent language in the dataset, with a count of 12,060. This suggests that a significant portion of the content in the dataset is in the English language.
-The analysis also shows that Japanese, Chinese, Spanish, and Korean languages each have a count of 804. This suggests that there is a presence of content in these languages as well, although to a lesser extent compared to English. The presence of multiple languages in the dataset reflects the diversity of content offered. This can be useful for catering to a wider audience and appealing to individuals who prefer content in different languages.
+Based on my analysis, the dataset includes movies or content primarily in five different languages: English, Japanese, Chinese, Spanish, and Korean. English is the most prevalent language in the dataset, with a count of 12,060. This suggests that a significant portion of the content in the dataset is in the English language. The analysis also shows that Japanese, Chinese, Spanish, and Korean languages each have a count of 804. This suggests that there is a presence of content in these languages as well, although to a lesser extent compared to English. The presence of multiple languages in the dataset reflects the diversity of content offered. This can be useful for catering to a wider audience and appealing to individuals who prefer content in different languages.
 
+The data includes a range of release dates, spanning from May 25, 2019, to April 6, 2023. From my analysis, there are months that have a higher concentration of releases.
 
-The data includes a range of release dates, spanning from May 25, 2019, to April 6, 2023. From my analysis, there are months that have higher concentration of releases. 
+This dataset is valuable for analyzing recent trends, consumer preferences, or market dynamics in the entertainment industry. The dataset indicates that 2023 has a higher concentration of releases, suggesting that it is a period of increased activity in the industry.
 
-This dataset is used for analyzing recent trends, consumer preferences or the market dynamics in the entertainment industry. This dataset indicates that 2023 has higher concentration of releases.
+The analysis provides information about the popularity or recognition of certain movie titles within the dataset. Movies like "John Wick: Chapter 4" and "On a Wing and a Prayer" stand out, indicating that they have garnered attention and interest among viewers.
 
-This analysis provides information about the popularity or recognition of certain movie titles within the dataset. Movies like "John Wick: Chapter 4" and "On a Wing and a Prayer".
+Furthermore, when examining the release dates by month, the dataset provides insights into the frequency and concentration of movie releases across different months. For example, March is a month with a higher concentration of releases, suggesting that movie studios strategically plan their release dates to take advantage of seasonal patterns, competition, market demand, and audience preferences.
 
+Lastly, the dataset allows for the assessment of the general sentiment or opinion of viewers towards different movies. Higher vote averages typically indicate more positive ratings and a higher level of audience satisfaction. This sentiment analysis can be valuable for understanding audience preferences and informing decision-making processes related to content production, marketing strategies, and resource allocation.
 
-
-From my analysis, when looking at the release in months,this dataset provides insights into the frequency and concentration of movie releases across different months. For example, March is a month with a higher concentration of releases. It indicates seasonal patterns or strategic release planning by movie studios. 
-My analysis suggest that movie studios might often consider factors like competition, market demand, and audience preferences when deciding on release dates.
-
-Lastly, the general sentiment or opinion of viewers towards different movies can be assessed. Higher vote averages typically indicate more positive ratings and a higher level of audience satisfaction.
+In conclusion, this analysis of the dataset highlights the diverse language offerings, trends in release dates, recognition of specific movies, strategic release planning, and audience sentiment. These insights can be leveraged by potential employers in the entertainment industry to make data-driven decisions, develop targeted marketing campaigns, and create content that resonates with audiences.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
