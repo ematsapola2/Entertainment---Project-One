@@ -82,29 +82,19 @@ Take a look at my GitHub query document to see how I cleaned the data.
 
 # MY ANALYSIS OF THE DATA AND CONCLUSION
 
-Original Language:
 
 Based on my analysis, the dataset includes movies or content primarily in five different languages: English, Japanese, Chinese, Spanish, and Korean. English is the most prevalent language in the dataset, with a count of 12,060. This suggests that a significant portion of the content in the dataset is in the English language.
 The analysis also shows that Japanese, Chinese, Spanish, and Korean languages each have a count of 804. This suggests that there is a presence of content in these languages as well, although to a lesser extent compared to English. The presence of multiple languages in the dataset reflects the diversity of content offered. This can be useful for catering to a wider audience and appealing to individuals who prefer content in different languages.
 
 
-Release dates(year):
-The data includes a range of release dates, spanning from May 25, 2019, to April 6, 2023. From my analysis, From my analysis, there are months that have higher concentration of releases. This dataset can be used for analyzing recent trends, consumer preferences or the market dynamics in the entertainment industry. This dataset indicates that 2023 has higher concentration of releases.
-This analysis provides information about the popularity or recognition of certain movie titles within the dataset. The presence of movie titles like "John Wick: Chapter 4" and "Creed III" suggests that people prefer sequels or franchise movies.
+The data includes a range of release dates, spanning from May 25, 2019, to April 6, 2023. From my analysis, there are months that have higher concentration of releases. This dataset can be used for analyzing recent trends, consumer preferences or the market dynamics in the entertainment industry. This dataset indicates that 2023 has higher concentration of releases.
+This analysis provides information about the popularity or recognition of certain movie titles within the dataset. The presence of movie titles like "John Wick: Chapter 4" and "On a Wing and a Prayer".
 
 
-Release Month:
 
-From my analysis when looking at the release in months,this dataset provides insights into the frequency and concentration of movie releases across different months. For example, March is a month with a higher concentration of releases. It indicates seasonal patterns or strategic release planning by movie studios. 
-From the dataset, my analysis suggest that movie studios might often consider factors like competition, market demand, and audience preferences when deciding on release dates.
+From my analysis, when looking at the release in months,this dataset provides insights into the frequency and concentration of movie releases across different months. For example, March is a month with a higher concentration of releases. It indicates seasonal patterns or strategic release planning by movie studios. 
+My analysis suggest that movie studios might often consider factors like competition, market demand, and audience preferences when deciding on release dates.
 
-
-Vote Count:
-
-From my analysis, the vote counts for each media type provides insights into the level of audience engagement and popularity for movies and TV shows. Higher vote counts for movies indicate a higher level of engagement and interest from viewers.
-
-
-Average vote count:
 
 From my analysis, the general sentiment or opinion of viewers towards different movies can be assessed. Higher vote averages typically indicate more positive ratings and a higher level of audience satisfaction.
 
@@ -113,9 +103,9 @@ From my analysis, the general sentiment or opinion of viewers towards different 
 
 # Abnormalities/Limitations
 
-The variable 'original_title' had empty fields of the tv show media_type, hence it was not easy to analsye the data about this media type. It is important to check for completeness of the data, ensuring that the dataset includes all relevant information for analysis.
+Due to the empty fields in the variable 'original_title', it was difficult to analyze data about this media type. The dataset must be checked for completeness to ensure that all relevant information is included.
 
-Even though it is possible for Japan, Korea, and Spain to have the same level of count (804) for the "language_count" attribute in the dataset. However, there might have been some problems during the data collection process such as data entry errors or inconsistencies in the dataset.
+Despite the fact that Japan, Korea, and Spain may have the same language_count attribute (804), inconsistencies or errors in the dataset may have occurred during the data collection process.
 
 Even though the dataset includes several movies with release dates in 2023, indicating a focus on recent and upcoming releases. This dataset might also suggest that the dataset might be more relevant for analyzing recent trends and developments in the movie industry.
 This dataset does not include variables such as genres, which makes it difficult to reveal more patterns and trends for specific movie titles and released dates.
