@@ -25,6 +25,7 @@ The dataset consists of the following:
 A unique Id is assigned to each movie or television show in this column. 
 
 
+
 • Original_title:
 
 Movie/TV show names are listed in this column.
@@ -36,18 +37,23 @@ Movie/TV show names are listed in this column.
  Languages in which movies were produced.
 
 
+
 • Release_date:
 
 Movies and TV shows are categorized by their release date in this dataset. We are looking at the most recent released movies and television shows from 2019 to 2013.
+
 
 
 •	Popularity:
 
 This dataset describes the level of public interest in a movie or TV show. In terms of the most popular movies and television shows.
 
+
+
 •	Vote_average:
 
 This dataset shows the average rating given to a particular movie or show. Each movie/TV show has an average rating. The rating ranges from 1-10. 
+
 
 
 •	The vote_count:
@@ -59,6 +65,7 @@ This dataset represents the votes or ratings received by a specific movie, or th
 •	Media_type:
 
 In this dataset, we define the type of content, such as a movie or a TV show.
+
 
 
 •	Adult:
