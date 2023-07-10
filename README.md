@@ -22,7 +22,7 @@ The dataset consists of the following:
 
 •	Id:
 
-A unique Id is assigned to each movie or TV shows in this column. 
+A unique Id is assigned to each movie or TV show in this column. 
 
 
 
