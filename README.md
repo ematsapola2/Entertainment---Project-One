@@ -58,19 +58,18 @@ This dataset represents the votes or ratings received by a specific movie, or th
 
 •	Media_type:
 
-This dataset refers to the type of content, whether it is a movie or a TV show.
+In this dataset, we define the type of content, such as a movie or a TV show.
 
 
 •	Adult:
 
-The "adults" attribute is usually represented as a Boolean data type, which can have values of true or false to indicate the presence or absence of a specific characteristic (in this case, whether the user is an adult or not).
-There are 0 users marked as "true," meaning there are no users marked as adults in the dataset.
+Adults attribute was represented as a Boolean data type. It can have true or false values depending on whether a specific characteristic is present (in this case, whether the user is an adult). A dataset with 0 users marked as "true" has no users marked as adults.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 # ABOUT DATA CLEANING
 
-Have a look at my .... document to have a close look at the data cleaned and how I cleaned the data.
+Take a look at my GitHub query document to see how I cleaned the data.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
