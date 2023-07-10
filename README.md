@@ -22,40 +22,37 @@ The dataset consists of the following:
 
 •	Id:
 
-This column consists of unique Ids which are unique to each movie/ tv show. The Id is a unique Id created for each movie/tv show.
+A unique Id is assigned to each movie or television show in this column. 
 
 
 • Original_title:
 
-This column consists of the movie/ tv show names which people preferred to watch or streamed the most. 
+Movie/TV show names are listed in this column.
 
 
 
 • Original_language:
 
-This includes the language the movies/tv shows were originally produced. The table consists of different languages, in which movies were produced in.
+ Languages in which movies were produced.
 
 
 • Release_date:
 
-This dataset refers to the date when a movie or TV show was released to the public. Here we are looking at the most recent released movies/tv shows between 2019 – 2013.
+Movies and TV shows are categorized by their release date in this dataset. We are looking at the most recent released movies and television shows from 2019 to 2013.
 
 
 •	Popularity:
 
-This dataset refers to the level of public interest and engagement in a movie/tv show. 
-As in which movies/tv shows were most popular.
+This dataset describes the level of public interest in a movie or TV show. In terms of the most popular movies and television shows.
 
 •	Vote_average:
 
-This dataset refers to the average rating given to a particular movie or TV. This is the average ratings for each movie/tv show.
-the rating is up to 10. or the highest is 10.
-How many ratings out of 10 did people give the movie while watching it.
+This dataset shows the average rating given to a particular movie or show. Each movie/TV show has an average rating. The rating ranges from 1-10. 
 
 
 •	The vote_count:
 
-This dataset refers to the number of votes or ratings received by a particular movie, or the number of votes received by the movie/tv show based on people.
+This dataset represents the votes or ratings received by a specific movie, or the number of votes received by a movie/tv show based on the overall number of votes received.
 
 
 
