@@ -87,7 +87,10 @@ Based on my analysis, the dataset includes movies or content primarily in five d
 The analysis also shows that Japanese, Chinese, Spanish, and Korean languages each have a count of 804. This suggests that there is a presence of content in these languages as well, although to a lesser extent compared to English. The presence of multiple languages in the dataset reflects the diversity of content offered. This can be useful for catering to a wider audience and appealing to individuals who prefer content in different languages.
 
 
-The data includes a range of release dates, spanning from May 25, 2019, to April 6, 2023. From my analysis, there are months that have higher concentration of releases. This dataset can be used for analyzing recent trends, consumer preferences or the market dynamics in the entertainment industry. This dataset indicates that 2023 has higher concentration of releases.
+The data includes a range of release dates, spanning from May 25, 2019, to April 6, 2023. From my analysis, there are months that have higher concentration of releases. 
+
+This dataset is used for analyzing recent trends, consumer preferences or the market dynamics in the entertainment industry. This dataset indicates that 2023 has higher concentration of releases.
+
 This analysis provides information about the popularity or recognition of certain movie titles within the dataset. Movies like "John Wick: Chapter 4" and "On a Wing and a Prayer".
 
 
