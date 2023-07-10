@@ -2,7 +2,7 @@
 
 # Entertainment(movie/tv show)
 
-The dataset explores the fascinating world of entertainment (movies and TV shows). It displays the movies/datasets that have been viewed/streamed the most. 
+The dataset explores the fascinating world of entertainment (movies and TV shows). It displays the movies/tv shows that have been viewed/streamed the most. 
 The report presents the preferences and behaviors of audiences towards different types of films and television shows.
 Based on the data, we will examine the type of media people prefer to watch based on movies and TV shows.
 
