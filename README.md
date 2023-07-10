@@ -106,8 +106,7 @@ Due to the empty fields in the variable 'original_title', it was difficult to an
 
 Despite the fact that Japan, Korea, and Spain may have the same language_count attribute (804), inconsistencies or errors in the dataset may have occurred during the data collection process.
 
-Even though the dataset includes several movies with release dates in 2023, indicating a focus on recent and upcoming releases, and also suggests that the dataset might be more relevant for analyzing recent trends and developments in the movie industry,
-this dataset does not include variables such as genres, which makes it difficult to reveal more patterns and trends for specific movie titles and released dates.
+Even though the dataset includes several movies with release dates in 2023, indicating a focus on recent and upcoming releases, it is important to note that this dataset lacks certain variables that could provide more comprehensive insights into the movie industry. Specifically, the dataset does not include variables such as genres, which restricts the ability to uncover patterns and trends related to specific movie titles and release dates.
 
 
 From my analysis, genre and theme information is not explicitly provided in the dataset, it can be considered for further analysis. Combining the available data with genre information would allow for deeper insights into audience preferences and trends within specific genres.
