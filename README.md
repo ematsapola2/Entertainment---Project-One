@@ -7,7 +7,7 @@ The report presents the preferences and behaviours of audiences towards differen
 Based on the data, we will examine the type of media people prefer to watch based on movies and TV shows.
 
 # This dataset is from Kaggle. 
-
+Kaggle is a community and platform for data scientists, machine learning practitioners, and researchers. This site provides a variety of resources, competitions, datasets, and tools to facilitate data science and machine learning projects. With Kaggle, you can browse a wide variety of datasets, ranging from small to large, across different domains. These datasets are contributed by the Kaggle community and can be used for research, analysis, and machine learning projects.
 
 # Please note:
 
