@@ -9,9 +9,11 @@ Based on the data, we will examine the type of media people prefer to watch base
 # This dataset is from Kaggle. 
 
 
-# Note
+# Please note:
 
-The dataset analysed does not include the 'Unknown' field under 'original_title', which falls under the 'tv show' media type, due to the absence of TV show names, thus no analysis could be conducted on missing or incomplete data.
+As my first data analysis project, I decided to work with a dataset that presented numerous challenges. As a beginner in data analysis, I saw this as an opportunity to enhance my skills and gain hands-on experience in working with real-world data. The dataset I chose had several issues, including incomplete data, insufficient data, and errors that occurred during the data collection process.
+Despite recognizing these limitations, I made the deliberate choice to proceed with this dataset. My objective was to not only analyze the data but also identify and address the various issues it contained. This decision was driven by my desire to learn how to analyze data effectively, gain proficiency in using SQL for data cleaning, and apply my knowledge of data analytics to identify and rectify errors.
+
 
 
 # Tableau Visualization
