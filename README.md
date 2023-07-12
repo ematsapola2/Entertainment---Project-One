@@ -74,7 +74,7 @@ In this dataset, we define the type of content, such as a movie or a TV show.
 
 •	Adult:
 
-Adults attribute was represented as a Boolean data type. It can have true or false values depending on whether a specific characteristic is present (in this case, whether the user is an adult). A dataset with 0 users marked as "true" has no users marked as adults.
+The data type "adult" in this context appears to be a Boolean data type. True/false or yes/no values are typically represented by Boolean data types. When a person is an adult in this dataset, "Adults" will be shown with a (1 or true) in the dataset, while non-adults will have a 0 or false. The dataset is stored as "bit", suggesting that it is stored as binary data.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
