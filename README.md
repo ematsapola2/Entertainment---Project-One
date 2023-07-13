@@ -114,11 +114,12 @@ Despite the fact that Japan, Korea, and Spain may have the same language_count a
 
 Even though the dataset includes several movies with release dates in 2023, indicating a focus on recent and upcoming releases, it is important to note that this dataset lacks certain variables that could provide more comprehensive insights into the movie industry. Specifically, the dataset does not include variables such as genres, which restricts the ability to uncover patterns and trends related to specific movie titles and release dates.
 
+The dataset under consideration contains a field labeled "adult," which indicates whether a movie is categorized as an adult film or not. However, upon examining the dataset, it is observed that all the movies are marked as "false," implying that none of them are considered adult films. This finding seems contradictory when compared to the actual knowledge of some movies being intended for adult audiences.
+Based on this discrepancy, it is evident that there might be a data quality issue or an error within the dataset. This inconsistency suggests the need for further investigation to understand the root cause of the incorrect labeling.
 
 From my analysis, genre and theme information is not explicitly provided in the dataset, it can be considered for further analysis. Combining the available data with genre information would allow for deeper insights into audience preferences and trends within specific genres.
 To gain a more comprehensive understanding of the entertainment industry, it would be beneficial to consider additional variables such as movie genres, ratings, box office performance, production budgets, and contextual information. Comparative analysis, market research, and external data sources can also provide valuable insights for a more robust analysis.
 It is important to acknowledge the limitations of the dataset, such as missing information, potential data quality issues, and a limited scope or sample size. These limitations may have impacted the generalizability of the analysis and should be considered when drawing conclusions.
 
-The dataset under consideration contains a field labeled "adult," which indicates whether a movie is categorized as an adult film or not. However, upon examining the dataset, it is observed that all the movies are marked as "false," implying that none of them are considered adult films. This finding seems contradictory when compared to the actual knowledge of some movies being intended for adult audiences.
-Based on this discrepancy, it is evident that there might be a data quality issue or an error within the dataset. This inconsistency suggests the need for further investigation to understand the root cause of the incorrect labeling.
+
 
