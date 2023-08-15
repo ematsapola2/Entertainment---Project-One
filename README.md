@@ -20,7 +20,7 @@ Despite recognizing these limitations, I made the deliberate choice to proceed w
 
 
 # Tableau Visualization
-Link : https://public.tableau.com/app/profile/evelyn.matsapola/viz/Entertainmentmovietvshow/Dashboard1?publish=yes
+Link : https://public.tableau.com/app/profile/evelyn.matsapola/viz/EntertainmentInsights/Dashboard1
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
